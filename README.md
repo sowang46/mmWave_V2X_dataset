@@ -6,14 +6,15 @@ This is the 3D ray-tracing dataset repository for [*M3 mmWave V2X*](http://m3.uc
 
 The data are organized as follow:
 
- - scenario_*
- 	- sim_*
- 		- x3d
- 			- '*'.x3d.sqlite
- 	- sim_*
- 	- ...
- - scenario_*
- - ...
++-- data
+|	+-- scenario_*
+|	|	+-- sim_*
+|	|	|    +-- x3d
+|	|   |    |   +-- '*'.x3d.sqlite
+|	|	+ sim_*
+|	|	+ ...
+|	+ scenario_*
+|	+ ...
 
 Each "scenario" directory folder corresponds to a specific experiment setup. Each "sim" directory corresponds to a specific timestamp under this setup. The 3D ray-tracing output is stored in the *sqlite* files. Here is a list of detail experiment setups for each "scenario" directory:
 
