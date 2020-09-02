@@ -11,8 +11,8 @@ The data are organized as follow:
 |	+-- sim_\*  
 |	|    +-- x3d  
 |   |    |   +-- \*.x3d.sqlite  
-|	+ sim_\*  
-|	+ ...  
+|	+-- sim_\*  
+|	+-- ...  
 +-- scenario_\*   
 +-- ...   
 
