@@ -24,6 +24,9 @@ Each "scenario" directory folder corresponds to a specific experiment setup. Eac
  - scenario_4:
  - scenario_5:
  - scenario_6:
+ - scenario_7:
+ - scenario_8:
+ - scenario_9:
 
 ## Data format
 
