@@ -22,7 +22,7 @@ Each "scenario" directory folder corresponds to a specific experiment setup. Eac
 
 ## Data format
 
-
+The data files are standard [Wireless Insite output](https://www.remcom.com/wireless-insite-outputs) sqlite files. A sqlite file contains received power, path loss/gain, E-field magnitude, mean time of arrival, delay spread, and many other outputs.
 
 ## Citing the dataset
 ``
